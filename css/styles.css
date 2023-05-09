@@ -96,6 +96,12 @@ body{
         top: 0px;
         margin-bottom: 50px
     }
+
+    .pancakeswapSite{
+        width: 300px;
+    }
+
+  
     
 }
 
@@ -214,6 +220,10 @@ a{
 
 .copyright-footer{
     margin-top: 50px;
+}
+
+.pancakeswapSite{
+    margin-top: 100px
 }
 
 
